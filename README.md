@@ -42,6 +42,7 @@ Sites built for launch day: a daily or weekly feed of new products.
 | [Tiny Launch](https://tinylaunch.com) | not checked | Free, paid options | Yes | yes | 2026-08-06 |
 | [Turbo0](https://turbo0.com) | not checked | Free | Yes | yes | 2026-08-06 |
 | [Uneed.best](https://uneed.best/) | Cold readers scanning categories | Free, paid options | Yes | not checked | 2026-08-06 |
+| [ZeroRaised](https://zeroraised.com) | not checked | Free | Yes | no | 2026-10-18 |
 
 ## AI tool directories
 
