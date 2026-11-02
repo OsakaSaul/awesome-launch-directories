@@ -74,6 +74,7 @@ Evergreen directories of startups and SaaS products.
 | --- | --- | --- | --- | --- | --- |
 | [SaaSHub](https://www.saashub.com/) | Cold readers scanning categories | not checked | Yes | not checked | 2026-08-06 |
 | [Startup Stash](https://startupstash.com/) | Cold readers scanning categories | Free | Yes | not checked | 2026-08-06 |
+| [SitePatent](https://sitepatent.com/) | Builders browsing by category and tech stack | Free with a homepage badge, or paid | Yes | not checked | 2026-11-02 |
 
 ## Founder networks
 
