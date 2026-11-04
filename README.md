@@ -9,7 +9,7 @@ A cell that says "not checked" means that fact has not been verified yet. It is 
 ## Contents
 
 - [Launch platforms](#launch-platforms) (20)
-- [AI tool directories](#ai-tool-directories) (7)
+- [AI tool directories](#ai-tool-directories) (8)
 - [Software review sites](#software-review-sites) (2)
 - [Startup directories](#startup-directories) (2)
 - [Founder networks](#founder-networks) (3)
@@ -56,6 +56,7 @@ Directories that list AI products by category.
 | [There's An AI For That](https://theresanaiforthat.com) | not checked | Free | Yes | no | 2026-08-06 |
 | [TheSaaSDir](https://thesaasdir.com) | not checked | Free | Yes | yes | 2026-08-06 |
 | [Vibe Coding Tools](https://vibecoding.app/tools) | not checked | Free | Yes | no | 2026-08-06 |
+| [MeetNewAI](https://meetnewai.com) | not checked | Free | Yes | not checked | 2026-11-04 |
 
 ## Software review sites
 
