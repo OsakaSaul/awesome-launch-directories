@@ -8,7 +8,7 @@ A cell that says "not checked" means that fact has not been verified yet. It is 
 
 ## Contents
 
-- [Launch platforms](#launch-platforms) (20)
+- [Launch platforms](#launch-platforms) (21)
 - [AI tool directories](#ai-tool-directories) (7)
 - [Software review sites](#software-review-sites) (2)
 - [Startup directories](#startup-directories) (2)
@@ -22,6 +22,7 @@ Sites built for launch day: a daily or weekly feed of new products.
 
 | Name | Audience | Free or paid | Self-promotion allowed | Dofollow | Last verified |
 | --- | --- | --- | --- | --- | --- |
+| [Awesome Indie](https://awesomeindie.com) | not checked | Free, paid options | Yes | yes | 2026-11-15 |
 | [BetaList](https://betalist.com/) | Cold readers scanning categories | Paid | Yes | not checked | 2026-08-06 |
 | [BetaPage](https://betapage.co) | not checked | Free | Yes | yes | 2026-08-06 |
 | [Dev Hunt](https://devhunt.org) | not checked | Free | Yes | yes | 2026-08-06 |
