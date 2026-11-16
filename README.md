@@ -49,6 +49,7 @@ Directories that list AI products by category.
 
 | Name | Audience | Free or paid | Self-promotion allowed | Dofollow | Last verified |
 | --- | --- | --- | --- | --- | --- |
+| [Add AI Directory](https://www.addaidirectory.com) | not checked | Free | Yes | not checked | 2026-11-16 |
 | [Futurepedia](https://futurepedia.io) | not checked | Free, paid options | Yes | no | 2026-08-06 |
 | [FutureTools](https://futuretools.io) | not checked | Free | Yes | no | 2026-08-06 |
 | [The Next AI](https://thenextai.com) | not checked | Free, paid options | Yes | yes | 2026-08-06 |
